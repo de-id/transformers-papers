@@ -1,5 +1,6 @@
 # transformers-papers
 Papers club from the AI team in D-ID  - this time transformers from attention to vision lectures are in Hebrew
+
 מועדון קריאת מאמרים שלנו - כל ההרצאות בעיברית
 | Date | Lecture | Paper / Resource | Year | Why is it interesting? | Asignee | Recording | Presentation |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
