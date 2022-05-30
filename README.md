@@ -5,6 +5,7 @@ Papers club from the AI team in D-ID  - this time transformers from attention to
 ## 1: ** [] 
 <details>
   <summary>Why it's interesting </summary>
+  
   1. Speaker - @tag
   2. (Slides)[url]
   3. (Recording)[] password
