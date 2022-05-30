@@ -7,8 +7,8 @@ Papers club from the AI team in D-ID  - this time transformers from attention to
   <summary>Why it's interesting </summary>
   
   1. Speaker - @tag
-  2. (Slides)[url]
-  3. (Recording)[] password
+  2. [Slides](url)
+  3. [Recording](url) password: 
   4. Tl;dr
      * With some
      * Sub bullets
